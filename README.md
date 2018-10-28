@@ -1,2 +1,5 @@
-# school-exericse
-java
+# school-practic-java
+
+和其他三位同學一起嘗試將上課學到的方法撰寫出一個簡單的小遊戲。
+
+--周俊輝、朱建中、張鈞翔、曾瓊儀--
